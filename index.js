@@ -25,7 +25,7 @@ console.log(power(2,8))
 function factorial(y){
     let fator = 1
     for(let i = 1; i <= y; i++){
-        fator = factorial(fator,y)
+        fator = multiply(fator,i)
     }
     return fator
 }

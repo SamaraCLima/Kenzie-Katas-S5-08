@@ -1,6 +1,6 @@
 y;fator;i;i<=y
-4;1;0;true
-4;4;1;true
-4;16;2;true
-4;64;3;true
-4;256;4;true
+4;1;1;true
+4;1;2;true
+4;2;3;true
+4;6;4;true
+4;24;5;false
